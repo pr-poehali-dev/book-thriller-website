@@ -32,7 +32,7 @@ export default function Index() {
               Психологический триллер
             </Badge>
             <h1 className="font-display text-5xl md:text-6xl font-bold mb-6 leading-tight">
-              Тени Разума
+              Дно Весты
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
               Погрузитесь в мир, где реальность переплетается с кошмарами, 
